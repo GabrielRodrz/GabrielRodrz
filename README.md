@@ -26,3 +26,7 @@
 - LinkedIn: [linkedin.com/in/gabrielrodrz](https://linkedin.com/in/gabrielrodrz)
 
 ---
+
+### 🐍 Snake eating my contributions:
+
+![snake gif](https://github.com/gabrielrodrz/gabrielrodrz/blob/output/github-contribution-grid-snake.svg)
