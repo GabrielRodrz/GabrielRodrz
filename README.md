@@ -49,6 +49,6 @@
 
 ## 📫 Como me encontrar:
 
-- 📧 Email: gabrielrodrz@example.com
+- 📧 Email: gaberodrz@gmail.com
 
 ---
