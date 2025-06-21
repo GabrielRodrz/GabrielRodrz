@@ -5,6 +5,7 @@
 </p>
 
 ---
+![snake svg](https://github.com/GabrielRodrz/GabrielRodrz/blob/main/dist/github-contribution-grid-snake.svg)
 
 ## 🧑‍💻 Sobre mim:
 
