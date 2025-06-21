@@ -51,7 +51,7 @@
 
 ### 🐍 Snake eating my contributions:
 
-![snake gif](https://github.com/GabrielRodrz/GabrielRodrz/dist/github-contribution-grid-snake.svg)
+![snake gif](https://github.com/GabrielRodrz/GabrielRodrz/dist/github-contribution-grid-snake.gif)
 
 
 
