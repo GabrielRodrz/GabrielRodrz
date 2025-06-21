@@ -54,6 +54,7 @@
 ![snake gif](https://github.com/gabrielrodrz/gabrielrodrz/blob/output/github-contribution-grid-snake.svg)
 
 
+
 ---
 
 ## 📫 Como me encontrar:
