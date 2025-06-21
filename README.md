@@ -1,32 +1,57 @@
-# 👋 Olá! Eu sou o Gabriel Rodrigues da Silva
+<h1 align="center">👋 Fala dev! Eu sou o Gabriel Rodrigues</h1>
 
-🎓 Estudante de [Seu Curso] na [Sua Instituição]  
-💻 Desenvolvedor Front-end | Entusiasta de Tecnologia  
-🚀 Atualmente estudando: React, TypeScript e Node.js  
-
-## 🚀 Tecnologias que eu uso no dia a dia:
-
-<div style="display: inline_block"><br>
-  <img align="center" alt="HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
-  <img align="center" alt="CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
-  <img align="center" alt="JS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg">
-  <img align="center" alt="React" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg">
-  <img align="center" alt="Node.js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original.svg">
-</div>
-
-##
-
-![Gabriel's GitHub stats](https://github-readme-stats.vercel.app/api?username=gabrielrodrz&show_icons=true&theme=radical)
-
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=gabrielrodrz&layout=compact&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
-
-## 📫 Contato:
-
-- Email: gabrielrodrz@example.com  
-- LinkedIn: [linkedin.com/in/gabrielrodrz](https://linkedin.com/in/gabrielrodrz)
+<p align="center">
+  🚀 Apaixonado por tecnologia, código e resolver problemas  
+  💻 Front-end Developer em construção  
+  🎯 Buscando sempre aprender algo novo
+</p>
 
 ---
 
-### 🐍 Snake eating my contributions:
+## 🛠️ Tech Stack:
+
+<div align="center">
+  <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" />
+  <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" />
+  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" />
+  <img src="https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black" />
+  <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white" />
+</div>
+
+---
+
+## 📈 GitHub Stats:
+
+<div align="center">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=gabrielrodrz&show_icons=true&theme=dracula" />
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=gabrielrodrz&layout=compact&theme=dracula" />
+</div>
+
+---
+
+## 💬 Sobre mim:
+
+- 📍 Moro no Brasil  
+- 📚 Estudando atualmente: ReactJS | TypeScript | Node.js  
+- 👯 Buscando colaborar em projetos open source  
+- 😄 Pronome: ele/dele  
+- 🎯 Curiosidade: Programo tomando muito café ☕  
+
+---
+
+## 🌱 Meus hobbies:
+
+🎮 Games | 🎨 Design | 🎧 Música | ☕ Café | 💡 Side Projects
+
+---
+
+## 📫 Onde me encontrar:
+
+- [LinkedIn](https://linkedin.com/in/gabrielrodrz)
+- [Email](mailto:gabrielrodrz@example.com)
+
+---
+
+## 🐍 Snake Game (Minha cobrinha comendo commits)
 
 ![snake gif](https://github.com/gabrielrodrz/gabrielrodrz/blob/output/github-contribution-grid-snake.svg)
