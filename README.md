@@ -5,6 +5,7 @@
 </p>
 
 ---
+### Minhas Contibuições:
 ![snake svg](https://github.com/GabrielRodrz/GabrielRodrz/blob/main/dist/github-contribution-grid-snake.svg)
 
 ## 🧑‍💻 Sobre mim:
@@ -47,14 +48,6 @@
 - 🌐 **Landing Pages responsivas**
 - ⚡ **Animações com CSS e Framer Motion**
 - 📊 **Dashboards e Interfaces ricas**
-
----
-
-### 🐍 Snake eating my contributions:
-
-![snake svg](https://github.com/GabrielRodrz/GabrielRodrz/blob/main/dist/github-contribution-grid-snake.svg)
-
-
 
 ---
 
