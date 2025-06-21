@@ -32,7 +32,7 @@
 
 ---
 
-## 📈 GitHub Stats:
+## 📈 Estatísticas do GitHub:
 
 <div align="center">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=gabrielrodrz&show_icons=true&theme=calm"/>
