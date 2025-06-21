@@ -49,9 +49,10 @@
 
 ---
 
-## 🐍 Snake Game - Meu gráfico de contribuições animado:
+### 🐍 Snake eating my contributions:
 
 ![snake gif](https://github.com/gabrielrodrz/gabrielrodrz/blob/output/github-contribution-grid-snake.svg)
+
 
 ---
 
